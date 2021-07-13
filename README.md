@@ -1,1 +1,2 @@
-# Homwork
+*由于对github使用的不熟练，产生了master和main两个branch。
+其中作业包含在master中，main里的内容可以忽略。
